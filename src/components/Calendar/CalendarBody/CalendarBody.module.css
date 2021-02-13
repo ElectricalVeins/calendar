@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.day {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  min-width: 30px;
+  min-height: 30px;
+}

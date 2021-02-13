@@ -1,0 +1,9 @@
+.currentDay {
+  color: red;
+  border-radius: 50%;
+  border: 1px solid red;
+}
+
+.anotherMonth {
+  color: grey;
+}
